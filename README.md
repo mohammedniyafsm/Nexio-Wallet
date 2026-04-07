@@ -1,4 +1,4 @@
-# Nexio-Multi-Chain Web Wallet  
+# Nexio-Multi-Chain Web Wallet   
 
 
 A modern, ultra-clean, multi-chain crypto wallet built with **Next.js**.
